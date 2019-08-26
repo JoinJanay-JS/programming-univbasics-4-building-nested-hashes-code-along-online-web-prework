@@ -10,7 +10,7 @@ def third_challenge
       :hero => {
         :name = "Romeo", :age = "15",
         },
-      :hero_friends => []
+      :hero_friends => [:name = "Benvolio", :age: "17", :attitude = "worried"]
    }, 
    :capulet => {
       :patriarch => {
@@ -22,7 +22,7 @@ def third_challenge
       :heroine => {
         :name = "Juliet", :age = "15", :status = "alive"
         },
-      :heroine_friends => []
+      :heroine_friends => [:name ="Mercuito", :age = "18", :attitude = "hot-headed"]
    }
   }
 
